@@ -1768,3 +1768,6 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
 .bf-toolbar .format:active {
   background: var(--background-modifier-active) !important;
 }
+Div#MemberCount {
+background-color: transparent;
+}
