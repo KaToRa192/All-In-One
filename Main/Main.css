@@ -1778,8 +1778,7 @@ svg.slider-TkfMQL svg,
 .members-1998pB,
 .members-1998pB>div {
     margin-left: 10px;
-    border-bottom-left-radius: var(--border-radius-1);
-    border-bottom-right-radius: var(--border-radius-1);
+    border-radius: var(--border-radius-1);
 }
 
 .scroller-RmtA4e {
