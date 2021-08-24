@@ -649,7 +649,6 @@ svg.slider-TkfMQL svg, .bd-switch-slider>svg {
   z-index: -1;
 }
 .avatar-1uQSZT::before,  .avatar-37jOim::before {
-  content: "";
   position: absolute;
   width: 28px;
   height: 28px;
