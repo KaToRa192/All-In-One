@@ -444,13 +444,13 @@
   font-size: 20px;
 }
 .info-1VyQPT::after {
-  content: "Zelk 1.2";
+  content: "Dark-Hub 1.1";
   color: var(--text-muted);
   font-size: 12px;
   line-height: 16px;
 }
 div[role="radiogroup"]+div:not(.disabled-2HSEFa) label::after {
-  content: "\A Enabling this setting will cause issues when using Zelk";
+  content: "\A Enabling this setting will cause issues when using Dark-Hub";
   white-space: pre;
   color: var(--text-danger);
   font-size: 14px;
@@ -2048,4 +2048,7 @@ background-color: #181818;
     -webkit-mask: none;
             mask: none;
     border-radius: 25px;
+}
+.membersGroup-v9BXpm {
+ text-align: center;
 }
