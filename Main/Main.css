@@ -2980,3 +2980,13 @@ Div#MemberCount {
 .membersGroup-v9BXpm {
     text-align: center;
 }
+
+.unreadPill-2HyYtt, .unreadPillCap-3_K2q2 {
+    position: absolute;
+    height: 13px;
+    visibility: hidden;
+}
+
+.isUnread-3Ef-o9 .content-1o0f9g {
+    margin-left: 600px;
+}
