@@ -953,6 +953,10 @@ svg.slider-TkfMQL svg,
 }
 
 /* mentions */
+#app-mount .wrapper-3WhCwL {
+    background: #BDE6FB30 !important;
+    color: var(--accent-color);
+}
 .wrapper-3WhCwL {
     background: #BDE6FB30 !important;
     color: var(--accent-color);
