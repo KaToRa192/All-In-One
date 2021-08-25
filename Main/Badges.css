@@ -80,6 +80,22 @@
     pointer-events: none;
 }
 
+/* Kavin */
+.member-3-YXUe .wrapper-3t9DeA[data-user-id="780433009933025281"]::before,
+.member-3-YXUe .wrapper-3t9DeA[vz-user-id="780433009933025281"]::before {
+    content: "";
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    bottom: -3px;
+    left: -5px;
+    z-index: 2;
+    background: url("https://cdn.discordapp.com/attachments/678590495668043783/880000227531173888/joker-the-killing-joke-badge-india.png?v=1") no-repeat;
+    background-size: 85%;
+    border-radius: 0 5px 0 0;
+    pointer-events: none;
+}
+
 /* ▬▬▬▬▬▬▬▬▬ Popout ▬▬▬▬▬▬▬▬▬ */
 
 /* Arx  */
