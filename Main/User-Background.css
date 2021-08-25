@@ -1,16 +1,22 @@
-/* Mine */
+/* ▬▬▬▬▬▬▬▬▬ Background ▬▬▬▬▬▬▬▬▬ */
 
-[user_by_bdfdb="229911822084472851"],
-[data-user-id="229911822084472851"] {
-  --users-popout: url('https://i.pinimg.com/originals/57/5d/6c/575d6c1dae7f1cf5b6aeacb688407c21.gif') !important;
+/* Arx */
+[user_by_bdfdb="478954486715514897"],
+[data-user-id="478954486715514897"] {
+    --users-popout: url('https://static.wixstatic.com/media/54d81b_1cdd2b26ab374ec58d5c413a43739d20~mv2.gif') !important;
 }
 
+/* Casey */
+[user_by_bdfdb="446316212188610580"],
+[data-user-id="446316212188610580"] {
+    --users-popout: url('https://cdn.discordapp.com/attachments/545231056945807380/879774286699700286/28dc8f94aa792f19b90d34755dd32f39.gif') !important;
+}
 
-/* Someone Else */
-
-
-
-
+/* KaToRa */
+[user_by_bdfdb="229911822084472851"],
+[data-user-id="229911822084472851"] {
+    --users-popout: url('https://cdn.discordapp.com/attachments/678590495668043783/879968191172972605/ezgif.com-gif-maker.gif') !important;
+}
 
 
 
