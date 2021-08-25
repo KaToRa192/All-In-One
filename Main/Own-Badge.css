@@ -130,7 +130,7 @@
     color: #dcdcdc;
     border-radius: 5px;
     border: 1px solid #181818;
-    background-image: url(https://cdn.discordapp.com/attachments/678590495668043783/879756016298913792/ezgif.com-gif-maker.gif);
+    background-image: url("https://cdn.discordapp.com/attachments/678590495668043783/879756016298913792/ezgif.com-gif-maker.gif");
 }
 
 .avatar-1BDn8e[src*="229911822084472851"]:hover+h2::after {
